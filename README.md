@@ -94,3 +94,4 @@ mapping, multi-agent orchestration, and automated reporting, all of
 which map directly onto what a SOC Tier 1/2 analyst actually does day
 to day. Pairs well with TryHackMe SOC Level 1 material on your resume.
 # Soc_agents_system
+# Soc_agents_system
