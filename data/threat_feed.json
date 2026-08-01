@@ -1,0 +1,36 @@
+{
+  "indicators": [
+    {
+      "value": "185.220.101.47",
+      "type": "ip",
+      "threat": "Known brute-force / credential-stuffing botnet node",
+      "confidence": "High",
+      "first_seen": "2026-03-11",
+      "mitre_technique": "T1110 - Brute Force"
+    },
+    {
+      "value": "45.155.205.233",
+      "type": "ip",
+      "threat": "Associated with Tor exit node abuse and SSH scanning campaigns",
+      "confidence": "Medium",
+      "first_seen": "2026-05-02",
+      "mitre_technique": "T1595 - Active Scanning"
+    },
+    {
+      "value": "94.102.61.7",
+      "type": "ip",
+      "threat": "Reported C2 infrastructure for commodity malware loader",
+      "confidence": "High",
+      "first_seen": "2026-01-20",
+      "mitre_technique": "T1071 - Application Layer Protocol (C2)"
+    },
+    {
+      "value": "e99a18c428cb38d5f260853678922e03",
+      "type": "hash",
+      "threat": "MD5 of known credential-harvesting script (linked to brute-force toolkits)",
+      "confidence": "High",
+      "first_seen": "2026-02-14",
+      "mitre_technique": "T1003 - OS Credential Dumping"
+    }
+  ]
+}
